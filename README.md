@@ -9,6 +9,7 @@ It is written in python and will replace certain strings in openpilot.
 * Change auto power off from 30 hours to 30 minutes
 * Update LastUpdateTime
 ## How to use
+SSH into your openpilot device.
     git clone https://github.com/chiu99/openpilot-customizer.git
-    pyhon3 openpilot-customizer/tune.py
+    python3 openpilot-customizer/tune.py
 Openpilot's routine update will override the change, you have to run it again manually.
