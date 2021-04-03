@@ -7,7 +7,7 @@ It is written in python and will replace certain strings in openpilot.
 * Disable camera logger
 * Disable data uploader
 * Change auto power off from 30 hours to 30 minutes
-* Update LastUpdateTime
+* Update LastUpdateTime (get rid of Internet warning)
 ## How to use
 SSH into your openpilot device.
 ```
