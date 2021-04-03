@@ -2,7 +2,7 @@
 Simple script to add your car fingerprints and small tunings after every openpilot release.
 ## What this script will do
 It is written in python and will replace certain strings in openpilot.
-* Change Toyota Corolla Hybrid TSS2 fingerprints to, in this example, Lexus UX250h 2020 Taiwan. Edit **tune.py** to fulfill your need.
+* Change Toyota Corolla Hybrid TSS2 fingerprints, in this example, to Lexus UX250h 2020 Taiwan. Edit **tune.py** to fulfill your need.
 * Tuning Toyota Corolla Hybrid TSS2 by the wheelbase, steerRatio, tire_stiffness_factor and mass, in this example, of Lexus UX250h. Edit **tune.py** to fulfill your need.
 * Disable camera logger
 * Disable data uploader
