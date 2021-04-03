@@ -14,4 +14,6 @@ SSH into your openpilot device.
 git clone https://github.com/chiu99/openpilot-customizer.git
 bash openpilot-customizer/t.sh
 ```
+Reboot device to take effect.
+
 Openpilot's routine update will override the change, you have to run it again manually.
