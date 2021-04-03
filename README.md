@@ -12,6 +12,6 @@ It is written in python and will replace certain strings in openpilot.
 SSH into your openpilot device.
 ```
 git clone https://github.com/chiu99/openpilot-customizer.git
-python3 openpilot-customizer/tune.py
+bash openpilot-customizer/t.sh
 ```
 Openpilot's routine update will override the change, you have to run it again manually.
