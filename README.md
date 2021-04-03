@@ -6,7 +6,7 @@ It is written in python and will replace certain strings in openpilot.
 * Tuning Toyota Corolla Hybrid TSS2 by the wheelbase, steerRatio, tire_stiffness_factor and mass, in this example, of Lexus UX250h. Edit to fulfill your need.
 * Disable camera logger
 * Disable data uploader
-* Change auto power off from 30 hours to 30 minutes
+* Auto power off after 30 minutes offroad
 * Update LastUpdateTime (to get rid of Internet warning)
 ## How to use
 SSH into your openpilot device.
