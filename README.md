@@ -1,5 +1,5 @@
 # openpilot-customizer
-Simple script to add your car fingerprints and small tunings after every openpilot release.
+Simple script to add your car [fingerprints](https://github.com/commaai/openpilot/wiki/Fingerprinting) and small tunings after every openpilot release.
 ## What this script will do
 It is written in python and will replace certain strings in openpilot.
 * Change Toyota Corolla Hybrid TSS2 fingerprints, in this example, to Lexus UX250h 2020 Taiwan. Edit **tune.py** to fulfill your need.
