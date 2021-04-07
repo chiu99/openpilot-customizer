@@ -9,7 +9,7 @@ It is written in python and will replace certain strings in openpilot.
 * Change auto power off timer to 30 minutes offroad
 * Update LastUpdateTime (to get rid of Internet connection warning)
 ## How to use
-SSH into your openpilot device.
+[SSH into](https://github.com/commaai/openpilot/wiki/SSH) your openpilot device.
 ```
 git clone https://github.com/chiu99/openpilot-customizer.git
 bash openpilot-customizer/t.sh
